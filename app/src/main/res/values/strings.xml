@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Missing Pets App</string>
+
+    <!-- User account -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="profile_image">Profile Image</string>
+
+    <!-- Pet Info -->
+    <string name="pet_name">Pet\'s name</string>
+    <string-array name="pet_type">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Bird</item>
+        <item>Rabbit</item>
+        <item>Reptile</item>
+        <item>Others</item>
+    </string-array>
+    <string name="sex">Sex</string>
+    <string name="date_lost">Date lost</string>
+    <string name="last_seen">Last seen</string>
+    <string name="details">Details</string>
+
+    <!-- Buttons, links, etc -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="Post">post</string>
+    
+    <!-- Navigation items -->
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="notifications">Notifications</string>
+
+
 </resources>
