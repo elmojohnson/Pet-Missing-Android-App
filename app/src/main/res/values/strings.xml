@@ -27,7 +27,7 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="Post">post</string>
-    
+
     <!-- Navigation items -->
     <string name="home">Home</string>
     <string name="account">Account</string>
